@@ -1,0 +1,52 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="32">
+            <item index="0" class="java.lang.String" itemvalue="protobuf" />
+            <item index="1" class="java.lang.String" itemvalue="webcolors" />
+            <item index="2" class="java.lang.String" itemvalue="jupyter-highlight-selected-word" />
+            <item index="3" class="java.lang.String" itemvalue="atomicwrites" />
+            <item index="4" class="java.lang.String" itemvalue="setuptools" />
+            <item index="5" class="java.lang.String" itemvalue="opencv-python-headless" />
+            <item index="6" class="java.lang.String" itemvalue="pyasn1-modules" />
+            <item index="7" class="java.lang.String" itemvalue="pyls-spyder" />
+            <item index="8" class="java.lang.String" itemvalue="uri-template" />
+            <item index="9" class="java.lang.String" itemvalue="appdirs" />
+            <item index="10" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="11" class="java.lang.String" itemvalue="jupyter_contrib_nbextensions" />
+            <item index="12" class="java.lang.String" itemvalue="lxml" />
+            <item index="13" class="java.lang.String" itemvalue="pywin32" />
+            <item index="14" class="java.lang.String" itemvalue="isoduration" />
+            <item index="15" class="java.lang.String" itemvalue="jupyter_nbextensions_configurator" />
+            <item index="16" class="java.lang.String" itemvalue="fqdn" />
+            <item index="17" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="18" class="java.lang.String" itemvalue="cligj" />
+            <item index="19" class="java.lang.String" itemvalue="wheel" />
+            <item index="20" class="java.lang.String" itemvalue="jupyter_contrib_core" />
+            <item index="21" class="java.lang.String" itemvalue="GDAL" />
+            <item index="22" class="java.lang.String" itemvalue="jsonpointer" />
+            <item index="23" class="java.lang.String" itemvalue="PyQtWebEngine" />
+            <item index="24" class="java.lang.String" itemvalue="fiona" />
+            <item index="25" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="26" class="java.lang.String" itemvalue="textblob" />
+            <item index="27" class="java.lang.String" itemvalue="mkl-service" />
+            <item index="28" class="java.lang.String" itemvalue="Django" />
+            <item index="29" class="java.lang.String" itemvalue="tzdata" />
+            <item index="30" class="java.lang.String" itemvalue="asgiref" />
+            <item index="31" class="java.lang.String" itemvalue="sqlparse" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="shop.urls.urlpatterns" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
